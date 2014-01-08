@@ -1,0 +1,79 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color:  rgb(216, 211, 196);
+	color: rgb(32, 143, 229);
+	font-family: 'Nunito', sans-serif;
+	
+}
+
+
+h1 {
+	font-size: 3em;
+	text-transform:uppercase;
+	text-align: center;	
+	text-shadow: -2px -1px 0px rgb(25, 125, 150);
+}
+
+h2 {
+	margin-top: 10px;
+	font-size: 2.5em;
+	}
+
+header {
+	margin-top: 15px;
+}
+
+table {
+
+	width: 45%;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid 5px rgb(30, 177, 168);
+	background-color: rgb(247, 243, 233);
+	padding: 5px;
+}
+
+.addcal {
+	text-align: center;
+	background-color: none;
+}
+
+th {
+	font-size: 2em;
+	border-bottom: solid 5px;
+	border-color: #1EB1A8;
+}
+
+
+td {
+	font-size: 2em;
+	text-align: center;
+}
+
+#smallprint {
+	margin-top: 4px;
+	color: grey;
+	text-align: center;
+}
+
+i {
+	font-size: 25px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+@media (max-width: 480px) {
+
+	table {
+		width: 98%;
+	}
+
+	h1,h2 {font-size: 1.5em;
+	}
+
+}
