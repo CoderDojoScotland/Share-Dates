@@ -3,7 +3,7 @@ Share Dates
 
 A website for sharing dates of Dojos with mentors. Mentors can view the dates of forthcoming Dojos and add them to their calendar.<br/>
 
-[Live Demo](http://glasgowcoderdojo.co/dates/) 
+[Live Demo](http://glasgow.coderdojo.co/dates/) 
 
 ##Additional Resources
 
